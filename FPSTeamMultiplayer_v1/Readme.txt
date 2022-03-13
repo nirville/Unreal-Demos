@@ -13,7 +13,7 @@ Current Mechanics:
 - Mutiplayer with TeamA and TeamB
 - Server & Client Session
 
-Currently Working On:
+Currently Working On (Missing):
 -Game Mode Capture the Flag
 -Join & Start Session
 -Server Lobby
